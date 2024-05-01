@@ -71,7 +71,7 @@ $ rmdir practice_dir_2
 $ vi practice_file1.txt
     # i
     # I'm good at Linux commands!
-    # :wq
+    # :wq　
 
 # 21. `practice_file1.txt`に書き込んだ内容を出力してください。
 $ cat practice_file1.txt
